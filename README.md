@@ -6,4 +6,6 @@ The main objective of this project was to simplify the code by applying various 
 Overall, this served as a simple project for the Software Design and Architecture course. Thank you in advance for your feedback!
 
 We used Apache Netbeans IDE 21 for this project.
+(You can use the project yourself by entering your own MySQL username and password in the connection settings.)
+
 Credits to : https://github.com/junodofbelhaven 
