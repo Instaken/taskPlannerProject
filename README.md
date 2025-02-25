@@ -4,3 +4,6 @@ In this project, we developed a simple TaskPlanner application using Java Swing 
 The main objective of this project was to simplify the code by applying various design and architectural patterns, which can be observed in the implementation. We used the Composite, Decorator, Strategy, and Observer design patterns, along with the MVC architectural pattern (you can explore the package structure for better organization).
 
 Overall, this served as a simple project for the Software Design and Architecture course. Thank you in advance for your feedback!
+
+We used Apache Netbeans IDE 21 for this project.
+Credits to : https://github.com/junodofbelhaven 
